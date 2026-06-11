@@ -4,7 +4,7 @@ Nome do(a) estudante: Gustavo Henrique Rodrigues da Silva
 Série/Turma: 2ºA
 Professor(a): Gabriel 
 Nome do projeto: Quiz do Agro 
-Link do repositório no GitHub: ___________________________________________
+Link do repositório no GitHub: https://github.com/Gustavo16112009/Agrinho-2026.git
 Data da conferência: 28 / 05 / 2026
 
 Para cada Tópico a seguir preencha com as informações de seu projeto, note-se que abaixo de cado tópico possui uma instrução ou um modelo de exemplo
@@ -50,7 +50,7 @@ O projeto é composto pelos seguintes arquivos e pastas:
 
 O projeto pode ser acessado pelo link abaixo: 
 
-[Coloque aqui o link do GitHub Pages ou Vercel]
+[https://github.com/Gustavo16112009/Agrinho-2026.git]
 
 7 - Como executar o projeto
 
